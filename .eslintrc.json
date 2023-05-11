@@ -20,6 +20,9 @@
    "react/react-in-jsx-scope": "off",
    "react/jsx-no-bind": "off",
    "react/jsx-filename-extension": [1, { "extensions": [".js", ".jsx"] }],
-   "import/prefer-default-export": "off"
+   "import/prefer-default-export": "off",
+   "class-methods-use-this": "off",
+   "max-len": "off",
+   "no-empty": ["error", { "allowEmptyCatch": true}]
   }
 }
